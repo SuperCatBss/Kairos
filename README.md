@@ -10,7 +10,7 @@ uuuuuuh, good luck
 
 # Credits
 ## Dev Team
-### truba82
+### ZovAzoV
 ### pogfg
 ## Helpers During Development
 ### 96theo
