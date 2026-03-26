@@ -11,7 +11,7 @@ uuuuuuh, good luck
 # Credits
 ## Dev Team
 ### ZovAzoV
-### pogfg
+### KFKa
 ## Helpers During Development
 ### 96theo
 ### ihateboredom (daveed)
@@ -26,4 +26,4 @@ uuuuuuh, good luck
 ### Gdip_All.ahk (Created by many)
 ### Gdip_ImageSearch.ahk (Made by MasterFocus & mmikeww, translated by SP)
 ### HyperSleep.ahk (File coming from Natro Macro)
-### JSON.ahk (Made by Chunjee)
+### JSON.ahk (Made by pogfg)
