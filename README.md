@@ -10,8 +10,8 @@ uuuuuuh, good luck
 
 # Credits
 ## Dev Team
-### Dully176
-### Ferox
+### truba82
+### pogfg
 ## Helpers During Development
 ### 96theo
 ### ihateboredom (daveed)
